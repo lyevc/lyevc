@@ -14,4 +14,4 @@ src="https://i.ibb.co/Sw3njZNb/Untitled21-20251111135207.png"> <a href=https://l
 
 
 <p align="center">
-<img width="20" src="https://tenor.com/view/kny-kimetsu-no-yaiba-sanemi-sanemi-de-dae-gif-3112427311092021459"> no DNI list so far ! c + h friendly <img width="20" src="https://tenor.com/view/kny-kimetsu-no-yaiba-sanemi-sanemi-de-dae-gif-3112427311092021459">
+<img width="20" src="https://i.ibb.co/5hP7xfJY/Untitled26-20251111141354.png"> no DNI list so far ! c + h friendly <img width="20" src="https://i.ibb.co/5hP7xfJY/Untitled26-20251111141354.png">
