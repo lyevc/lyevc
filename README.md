@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=lyevc&color=c6cbbc&label=⋆˚࿔)
 
 <p align="center">
-    <img width="900" src="https://i.ibb.co/bM1B8X1y/54034de013b4a226c717279eb5d9e395.jpg">
+    <img width="900" src="https://i.ibb.co/Z1VJwxnT/12282381e9286a7029a90615b50023b4.jpg">
 </p>
 
 <p align="center">
