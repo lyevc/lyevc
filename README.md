@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**lyevc/lyevc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=lyevc&color=c6cbbc&label=⋆˚࿔)
 
-Here are some ideas to get you started:
+<p align="center">
+    <img width="900" src="https://i.ibb.co/wFBdr2b7/18097728d4485dac4ebe54aa71fbe47f.jpg">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+links <img width="18" src="https://tenor.com/view/wind-blowing-hair-blowing-in-the-wind-hair-blowing-hair-blow-cartoon-hair-blowing-gif-23460740">
+
+<p align="center">
+  <a href=https://lyevc.straw.page/>strawpage</a> <img width="18"
+src="https://tenor.com/view/leaves-fall-leave-falling-blow-gif-21333097"> <a href=https://lyevc.atabook.org/>atabook</a> <img width="18"
+
+
+<p align="center">
+<img width="20" src="https://tenor.com/view/kny-kimetsu-no-yaiba-sanemi-sanemi-de-dae-gif-3112427311092021459"> no DNI list so far ! c + h friendly <img width="20" src="https://tenor.com/view/kny-kimetsu-no-yaiba-sanemi-sanemi-de-dae-gif-3112427311092021459">
