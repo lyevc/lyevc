@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=lyevc&color=c6cbbc&label=⋆˚࿔)
 
 <p align="center">
-    <img width="900" src="https://tenor.com/view/kny-kimetsu-no-yaiba-sanemi-sanemi-de-dae-gif-3112427311092021459">
+    <img width="900" src="https://i.ibb.co/wFBdr2b7/18097728d4485dac4ebe54aa71fbe47f.jpg">
 </p>
 
 <p align="center">
