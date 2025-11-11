@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-links <img width="20" src="https://i.ibb.co/Dg1TPHQ0/Untitled24-20251111140939.png">
+links <img width="30" src="https://i.ibb.co/Dg1TPHQ0/Untitled24-20251111140939.png">
 
 <p align="center">
   <a href=https://lyevc.straw.page/>strawpage</a> <img width="18"
