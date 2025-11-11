@@ -14,4 +14,4 @@ src="https://i.ibb.co/Sw3njZNb/Untitled21-20251111135207.png"> <a href=https://l
 
 
 <p align="center">
-<img width="20" src="https://i.ibb.co/5hP7xfJY/Untitled26-20251111141354.png"> no DNI list so far ! c + h friendly <img width="20" src="https://i.ibb.co/5hP7xfJY/Untitled26-20251111141354.png">
+<img width="30" src="https://i.ibb.co/5hP7xfJY/Untitled26-20251111141354.png"> no DNI list so far ! c + h friendly <img width="30" src="https://i.ibb.co/5hP7xfJY/Untitled26-20251111141354.png">
