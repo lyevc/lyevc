@@ -10,7 +10,7 @@ links <img width="18" src="https://tenor.com/view/wind-blowing-hair-blowing-in-t
 
 <p align="center">
   <a href=https://lyevc.straw.page/>strawpage</a> <img width="18"
-src="https://tenor.com/view/leaves-fall-leave-falling-blow-gif-21333097"> <a href=https://lyevc.atabook.org/>atabook</a> <img width="18"
+src="https://cdn.discordapp.com/emojis/1163382079195709440.webp"> <a href=https://lyevc.atabook.org/>atabook</a> <img width="18"
 
 
 <p align="center">
