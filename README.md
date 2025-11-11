@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-links <img width="18" src="https://tenor.com/view/wind-blowing-hair-blowing-in-the-wind-hair-blowing-hair-blow-cartoon-hair-blowing-gif-23460740">
+links <img width="18" src="https://i.ibb.co/5hn0M1MD/Untitled23-20251111140058.png">
 
 <p align="center">
   <a href=https://lyevc.straw.page/>strawpage</a> <img width="18"
