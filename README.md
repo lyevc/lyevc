@@ -2,6 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=lyevc&color=c6cbbc&label=⋆˚࿔)
 
 <p align="center">
+my art
+
+<p align="center">
     <img width="600" src="https://i.ibb.co/F4CJ1y3t/Untitled125-Restored-20260418005916.png">
 </p>
 
