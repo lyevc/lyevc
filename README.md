@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=lyevc&color=c6cbbc&label=⋆˚࿔)
+![](https://i.postimg.cc/cHwvyVbp/Untitled621-20251112141408.png)
 
 <p align="center">
 my art
