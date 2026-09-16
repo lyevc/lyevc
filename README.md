@@ -10,6 +10,3 @@
 
 <kbd>farts<kd>  
 
-> [!NOTE]
-> This is a bordered box containing your custom text.
-> 
