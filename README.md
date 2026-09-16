@@ -10,3 +10,8 @@
 
 <kbd>farts<kd>  
 
+<table>
+  <tr>
+    <td>Your text or description goes inside this boxed area.</td>
+  </tr>
+</table>
