@@ -8,4 +8,6 @@
 <br clear="left"/>
 
 
-<kbd>farts<kd>  [!NOTE]
+<kbd>farts<kd>  
+
+[!NOTE]
