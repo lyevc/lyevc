@@ -12,6 +12,6 @@
 
 <table>
   <tr>
-    <td>Your text or description goes inside this boxed area.</td>
+    <td>YES I FIGRUED I TOUT</td>
   </tr>
 </table>
