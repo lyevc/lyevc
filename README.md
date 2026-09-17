@@ -4,14 +4,8 @@
 
 **burps loudly
 krkeoekk4r**  
-
-<br clear="left"/>
-
-
-<kbd>farts<kd>  
-
 <table>
   <tr>
-    <td>YES I FIGRUED I TOUT</td>
+    <td>farts</td>
   </tr>
 </table>
