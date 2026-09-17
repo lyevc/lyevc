@@ -5,7 +5,7 @@
 
 **burps loudly**  
 
-<br clear="left"/>
+<br clear="right"/>
 
 
 <kbd>farts<kd>  
