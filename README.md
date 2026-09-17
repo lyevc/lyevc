@@ -1,5 +1,3 @@
-
-<p align="center">
 <img width="500" src="https://i.ibb.co/zTyn8DQD/Untitled261-20260918001125.png">
 
 
