@@ -3,7 +3,7 @@
 
 <img width="400" src="https://i.ibb.co/zTyn8DQD/Untitled261-20260918001125.png">
 
-**if you ever see this, ignore it, im remaking everything like I said in my status**  
+**burps loudly**  
 
 <br clear="left"/>
 
