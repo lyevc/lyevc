@@ -8,10 +8,14 @@ ${\textsf{\color{#3f667a} ✦}}$ <a href=lyevc.atabook.org>atabook</a> ${\textsf
 ${\textsf{\color{#6e9eaf}.}}$ ${\textsf{\color{#7ba5b4}*}}$ 🪽
 [](https://komarev.com/ghpvc/?username=lyevc&color=21366d&label=levlings).
 
-<table>
+<table width="100%">
   <tr>
-    <td>"ɪ ᴀᴍ ᴇʟʟɪᴏᴛ ɴɪɢʜᴛʀᴀʏ ᴀɴᴅ ɪ ᴡᴏɴ'ᴛ ʟᴇᴛ ʏᴏᴜ ᴛᴀᴋᴇ ᴛʜᴀᴛ ᴀᴡᴀʏ ꜰʀᴏᴍ ᴍᴇ!"</td>
+    <td>
+      "ɪ ᴀᴍ ᴇʟʟɪᴏᴛ ɴɪɢʜᴛʀᴀʏ ᴀɴᴅ ɪ ᴡᴏɴ'ᴛ
+      <br>
+      ʟᴇᴛ ʏᴏᴜ ᴛᴀᴋᴇ ᴛʜᴀᴛ ᴀᴡᴀʏ ꜰʀᴏᴍ ᴍᴇ!"
+    </td>
   </tr>
 </table>
 
-**still unfinished**
+**STILL UNFINISHED😭**
