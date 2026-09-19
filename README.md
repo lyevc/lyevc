@@ -21,5 +21,5 @@ ${\textsf{\color{#6e9eaf}.}}$ ${\textsf{\color{#7ba5b4}*}}$ 🪽
 <details>
 <summary>Click/press here to show more info</summary>
 
-  there's nothing lmao but I'll add something when I got the time
+  there's nothing lmao but I'll add something when I got the time or when I have the energy to do so
 </details>
