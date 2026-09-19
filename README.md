@@ -1,5 +1,5 @@
-<img align="left" src="https://i.ibb.co/zTyn8DQD/Untitled261-20260918001125.png" width="550" style="margin-right: 15px;">
-<img align="left" src="https://i.ibb.co/F4CJ1y3t/Untitled125-Restored-20260418005916.png" width="270" style="margin-right: 15px;">
+<img src="https://i.ibb.co/zTyn8DQD/Untitled261-20260918001125.png" width="550" style="margin-right: 15px;">
+
 
 ${\textsf{\color{#a2b9c3} 𓏲}}$ ${\textsf{\color{#5994a7}: }}$ ${\textsf{\color{#3f667a}:}}$
 ${\textsf{\color{#2d5b72}/}}$ ${\textsf{\color{#3f667a}/}}$ <a href=https://lyevc.straw.page/>strawpage</a>
@@ -18,3 +18,6 @@ ${\textsf{\color{#6e9eaf}.}}$ ${\textsf{\color{#7ba5b4}*}}$ 🪽
 </table>
 
 **STILL UNFINISHED😭**
+
+
+
