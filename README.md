@@ -18,3 +18,8 @@ ${\textsf{\color{#6e9eaf}.}}$ ${\textsf{\color{#7ba5b4}*}}$ 🪽
   </tr>
 </table>
 
+<details>
+<summary>Click/press here to show more info</summary>
+
+  there's nothing lmao but I'll add something when I got the time
+</details>
