@@ -11,7 +11,6 @@ ${\textsf{\color{#6e9eaf}.}}$ ${\textsf{\color{#7ba5b4}*}}$ 🪽
   <tr>
     <td>
       "ɪ ᴀᴍ ᴇʟʟɪᴏᴛ ɴɪɢʜᴛʀᴀʏ ᴀɴᴅ ɪ ᴡᴏɴ'ᴛ
-      <br>
       ʟᴇᴛ ʏᴏᴜ ᴛᴀᴋᴇ ᴛʜᴀᴛ ᴀᴡᴀʏ ꜰʀᴏᴍ ᴍᴇ!"
     </td>
   </tr>
@@ -19,5 +18,6 @@ ${\textsf{\color{#6e9eaf}.}}$ ${\textsf{\color{#7ba5b4}*}}$ 🪽
 
 **STILL UNFINISHED😭**
 
+ I don't like this I might redo everything 
 
 
