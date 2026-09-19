@@ -4,7 +4,7 @@
 
 ${\textsf{\color{#a2b9c3} 𓏲}}$ ${\textsf{\color{#5994a7}: }}$ ${\textsf{\color{#3f667a}:}}$
 ${\textsf{\color{#2d5b72}/}}$ ${\textsf{\color{#3f667a}/}}$ <a href=https://lyevc.straw.page/>strawpage</a>
-${\textsf{\color{#3f667a} ✦}}$ <a href=https://lyevc.atabook.org/>atabook</a> ${\textsf{\color{#2b6179}𝄞}}$
+${\textsf{\color{#3f667a} ✦}}$ <a href=https://lyevc.atabook.org/>atabook</a> ${\textsf{\color{#3f667a} ✦}}$ <a href=https://lyevc.atabook.org/>art</a> ${\textsf{\color{#2b6179}𝄞}}$
 ${\textsf{\color{#6e9eaf}.}}$ ${\textsf{\color{#7ba5b4}*}}$ 🪽
 ![](https://komarev.com/ghpvc/?username=lyevc&color=253559&label=⋆˚࿔)
 
