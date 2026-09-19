@@ -11,7 +11,7 @@ ${\textsf{\color{#6e9eaf}.}}$ ${\textsf{\color{#7ba5b4}*}}$ 🪽
     <td>
       ${\textsf{\color{#d4ebf1} "}}$ ${\textsf{\color{#add9e6} ɪ}}$ ${\textsf{\color{#add9e6} ᴀᴍ}}$ ${\textsf{\color{#87c5da} ᴇʟʟɪᴏᴛ}}$ ${\textsf{\color{#87c5da} ɴɪɢʜᴛʀᴀʏ}}$ ${\textsf{\color{#5fb3cf} ᴀɴᴅ}}$ ${\textsf{\color{#5fb3cf} ɪ}}$ ${\textsf{\color{#3b9fc1} ᴡᴏɴ'ᴛ}}$ ${\textsf{\color{#3b9fc1} ʟᴇᴛ}}$ 
        <br>
-      ${\textsf{\color{#5fb3cf} ʏᴏᴜ}}$ ${\textsf{\color{#5fb3cf} ᴛᴀᴋᴇ}}$ ${\textsf{\color{#87c5da} ᴛʜᴀᴛ}}$ ${\textsf{\color{#87c5da} ᴀᴡᴀʏ}}$ ${\textsf{\color{#add9e6} ꜰʀᴏᴍ}}$ ${\textsf{\color{#add9e6} ᴍᴇ}}$ ${\textsf{\color{#d4ebf1} !}}$ ${\textsf{\color{#d4ebf1} "}}$
+      ${\textsf{\color{#5fb3cf} ʏᴏᴜ}}$ ${\textsf{\color{#5fb3cf} ᴛᴀᴋᴇ}}$ ${\textsf{\color{#87c5da} ᴛʜᴀᴛ}}$ ${\textsf{\color{#87c5da} ᴀᴡᴀʏ}}$ ${\textsf{\color{#add9e6} ꜰʀᴏᴍ}}$ ${\textsf{\color{#add9e6} ᴍᴇ}}$ ${\textsf{\color{#d4ebf1} !}}$ ${\textsf{\color{#d4ebf1} "}}$ ${\textsf{\color{#d4ebf1} ⭑𓂃}}$
     </td>
   </tr>
 </table>
