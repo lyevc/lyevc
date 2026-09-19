@@ -18,6 +18,8 @@ ${\textsf{\color{#6e9eaf}.}}$ ${\textsf{\color{#7ba5b4}*}}$ 🪽
   </tr>
 </table>
 
+𓈒ㅤׂㅤ𐙚  ࣪ ⭒ 𓂃⋆.˚
+
 <details>
 <summary>Click/press here to show more info</summary>
 
